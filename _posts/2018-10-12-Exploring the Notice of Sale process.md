@@ -59,7 +59,7 @@ Rates and valuations are linked together and the notice is one of the key inputs
 
 __The rating and valuation process__
 
-![Valuation cycle & Local Authority actions feeds into the Setting and billing of rates, then to Property Owner](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS1.png)
+![A flow chart containing a valuation cycle & local authority actions feeds into the setting and billing of rates, then to Property Owner](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS1.png)
 
 (Flow chart showing that Valuation cycle & Local Authority actions feeds into the Setting and billing of rates, then to Property Owner.)
 
@@ -69,7 +69,7 @@ In addition to the rating process the notice also acts another way to provide in
 __The notice of sale and its relation to rating and valuation__
 (also see [Appendix 1](#Go-to-Appendix1) for the key concepts required under legislation and what triggers a change of ownership, and see [Appendix 2 Data Map](#Go-to-Appendix2) for what data is collected at each step in the process)
 
-![Notice of Sale decision tree](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS2.png)
+![A flow chart showing notice of sale decision tree](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS2.png)
 
 (Notice of Sale decision tree. __Path 1__ - Notice of change of ratepayer and/or their contact details of whole or part of the rating unit; Council finance team accountable fo calculation of rates. This is Audited by DIA; Council valuation team accountable for valuation data being correct. This is audited by LINZ valuer general. They determine structure of data extracts for comparable analysis. __Path 2__ - Notice of change of title (i.e. creation of a new title and cancellation of existing title); Register of Titles; Valuation Service Providers (VSP). They are accountable for the calculation of valuations. Councils are also required to provde the correct data/information to contirbute to the calculation.)
 
@@ -160,7 +160,7 @@ This is based on the following logic mapping flow model[^2](as shown below) deve
 
 [^2]:Bradshaw, H. (2014). The Structural Playability Process (SPP )-An Effective Design Process for Educational Computer Games. chp 3, p60
 
-![Complex Problem;Overarching Goal;Audience Types;Motivation(Intrinsic & Extrinsic);Problem/Pain Points;Constraints;Emerging Concepts;IDEATE.](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS4.png)
+![A flow chart showing a complex problem linking to overeaching goal to problems/pain points then to constraints then emerging concepts and IDEATE](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS4.png)
 
 (Logic Mapping Flow diagram. Starts with Complex Problem; Overarching Goal; Audience Types; Motivation(Intrinsic); Motivation (Extrinsic); Problem/Pain Points; Constraints; Emerging Concepts; and lastly IDEATE.)
 
@@ -241,18 +241,18 @@ To consider the problems the various audiences are having the team were asked to
 [Solicitor journey map](https://drive.google.com/file/d/14wHVvtWVUsMaPOQZZ6hXXLu37Yir56DT/view)
 
 
-![Post-it notes for Journey Map. Votes on Education/Action Points; & Unreliable Data](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS7.png)
+![Post-it notes stuck on a wall and paper with votes on education/action points; & unreliable data](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS7.png)
 
 (Post-it notes for Journey Map. Votes on Education/Action Points; & Unreliable Data.)
 
-![Post-it notes for Journey Map. Votes on Incorrect or Missing Data; Human Error; & Duplicating Information](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS8.png)
+![Post-it notes stuck on a wall and paper with votes on incorrect or missing data; human error; & duplicating information](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS8.png)
 
 (Post-it notes for Journey Map. Votes on Incorrect or Missing Data; Human Error; & Duplicating Information.)
 
 
 [Council journey map](https://drive.google.com/file/d/14wHVvtWVUsMaPOQZZ6hXXLu37Yir56DT/view)
 
-![Post-it notes for Journey Map. Top votes on Manual processing/checking including multiple handling of the notice](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS9.png)
+![Post-it notes stuck on a wall and paper with top votes on manual processing/checking including multiple handling of the notice](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS9.png)
 
 (Post-it notes for Journey Map. Top votes on Manual processing/checking including multiple handling of the notice.)
 
@@ -323,8 +323,8 @@ The team believe that if these problems were fixed then it could resolve many of
 To explore problems and solutions for these scenario and storyboard techniques were used. The team created a scenario that addresses the audience problem, meets the a clear goal and works within the constraints. A scenario should have an audience, a goal, a set of constraints and a beginning, middle and an end. These were themed and storyboards were created based on the prioritised scenarios.  
 Each person shared their [storyboards](https://drive.google.com/file/d/1n0p7UeOUayG6tX-tSddJavi2JoKMsUql/view) and then team was separated into groups who took the scenarios, identified their common elements and collaborated to create a refined storyboard.   
 
-![Team collaborated to create a refined storyboard from the common elements of the scenarios](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS13.png)
-![Team collaborated to create a refined storyboard from the common elements of the scenarios](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS14.png)
+![A refined storyboard with common elements of scenarios of problems and solutions](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS13.png)
+![A refined storyboard with common elements of scenarios of problems and solutions](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS14.png)
 
 (Team collaborated to create a refined storyboard from the common elements of the scenarios.)
 
@@ -365,10 +365,10 @@ Here are the [refined storyboards](https://drive.google.com/file/d/1wHK0CyhgpjKD
 
 
 Improve communication between Council and Solicitors - ‘spending time together’ 
- ![Storyboard - Improve communication between Council and Solicitors - ‘spending time together’](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS17.png)
+ ![A storyboard on improvement with communication between council and solicitors](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS17.png)
 
 Rules and data validation flags to help select the correct process to use. 
-![Rules and data validation flags to help select the correct process to use](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS18.png)
+![A poster with rules and data validation flags to help select the correct process to use](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS18.png)
 
 
 
@@ -378,7 +378,7 @@ The idea behind this possible future state is that much of the data required to 
 
 Rather than expecting each person in the process chain to perform manual data entry then we could imagine a process where the data is kept as electronic data and systematically pushed through the required states of a workflow. Ideally this would satisfy the legislative requirements (see [Appendix 1 for the key concepts required under legislation](#Go-to-Appendix1)) while achieving the goal of improved data quality and improved trust in the process. 
 
-![Flow diagram describing the Change of Ownership of a Rating Unit - Future State version 0.2](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS19.png)
+![Flow diagram describing the change of ownership of a rating unit - future state version 0.2](/assets/media/Exploring-the-Notice-of-Sale-Process/ETNS19.png)
 
 (Flow diagram describing the Change of Ownership of a Rating Unit - Future State version 0.2)
 
